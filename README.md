@@ -1,4 +1,4 @@
-# OPTIFYX
+# IRIS FLOWER CLASSIFICATION PROJECT
 # Project Overview
 This project aims to classify Iris flowers into three species—Setosa, Versicolor, and Virginica—using a machine learning model. The classification is based on sepal and petal measurements (length and width). The dataset is a well-known benchmark dataset in machine learning, and the goal is to build an efficient and accurate classification model.
 
