@@ -4,10 +4,10 @@ This project aims to classify Iris flowers into three species—Setosa, Versicol
 
 # Folder Structure
 ```
+├── results/                # Folder for saving EDA plots and model results (optional)
 ├── iris.csv                # Dataset file (replace with your dataset)
-├── iris_classification.py  # Main Python script for the project
 ├── README.md               # Project documentation
-└── results/                # Folder for saving EDA plots and model results (optional)
+└── iris_classification.py  # Main Python script for the project
 ```
 # Requirements
 - Python 3.x
