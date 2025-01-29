@@ -34,9 +34,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Final evaluation on the test dataset
 
 ### Command to execute:
-`
+```
 python iris_classification.py
-`
+```
 
 **3.Output:**
 - EDA visualizations (e.g., pairplot and correlation heatmap).
